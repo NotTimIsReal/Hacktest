@@ -1,0 +1,26 @@
+#starttitle{
+    text-align: center;
+    font-size:50px;
+    text-decoration: lightpink;
+    
+   
+}
+
+body:double-button{
+    background-color: fade-in($color: #e6ecf3, $amount: 0);
+    opacity: zip($lists:1px);
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }

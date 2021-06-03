@@ -1,4 +1,27 @@
-#starttitle{
-    text-align: center;
-    font-size:50px
+#starttitle {
+  text-align: center;
+  font-size: 50px;
+  -webkit-text-decoration: lightpink;
+          text-decoration: lightpink;
 }
+
+body:double-button {
+  background-color: #e6ecf3;
+  opacity: 1px;
+}
+
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+/*# sourceMappingURL=index.css.map */
