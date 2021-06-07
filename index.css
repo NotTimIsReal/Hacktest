@@ -6,7 +6,7 @@
 }
 
 body:double-button {
-  background-color: #e6ecf3;
+  background-color: #9fccff;
   opacity: 1px;
 }
 
@@ -22,6 +22,6 @@ body:double-button {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: red;
 }
 /*# sourceMappingURL=index.css.map */
