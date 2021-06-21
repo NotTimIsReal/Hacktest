@@ -1,3 +1,36 @@
+@font-face {
+  font-family:'NotoSansJP-Regular' ;
+  src: url('Fonts/Noto_Sans_JP/NotoSansJP-Regular.otf');
+  font-family: 'NotoSansJP-Black';
+  src: url("Fonts/Noto_Sans_JP/NotoSansJP-Black.otf");
+  font-family: 'NotoSansJP-Bold';
+  src: url("Fonts/Noto_Sans_JP/NotoSansJP-Bold.otf");
+  font-family: 'NotoSansJP-Light';
+  src: url("Fonts/Noto_Sans_JP/NotoSansJP-Light.otf");
+  font-family: 'NotoSansJP-Medium';
+  src: url("Fonts/Noto_Sans_JP/NotoSansJP-Medium.otf");
+  font-family: 'NotoSansJP-Thin';
+  src: url("Fonts/Noto_Sans_JP/NotoSansJP-Thin.otf");
+  
+
+}
+@font-face{
+  font-family: 'Mukta-Bold';
+  src: url('Fonts/Mukta/Mukta-Bold.ttf');
+  font-family: 'Mukta-ExtraBold';
+  src: url('Fonts/Mukta/Mukta-ExtraBold.ttf');
+  font-family: 'Mukta-ExtraLight';
+  src: url('Fonts/Mukta/Mukta-ExtraLight.ttf');
+  font-family: 'Mukta-Light';
+  src: url('Fonts/Mukta/Mukta-Light.ttf');
+  font-family: 'Mukta-Medium';
+  src: url('Fonts/Mukta/Mukta-Medium.ttf');
+  font-family: 'Mukta-Regular';
+  src: url('Fonts/Mukta/Mukta-Regular.ttf');
+  font-family: 'Mukta-SemiBold';
+  src: url('Fonts/Mukta/Mukta-SemiBold.ttf');
+}
+
 #starttitle{
     text-align: center;
     font-size:50px;
@@ -39,4 +72,10 @@ body:double-button{
       background-image: URL('/IMG/Code.png');
     }
   }
-  
+  h1{
+    font-family: NotoSansJP-Thin;
+  }
+  p{
+    font-family: Mukta-Medium;
+  }
+ 
