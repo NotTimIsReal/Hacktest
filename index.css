@@ -81,5 +81,12 @@ h1 {
 
 p {
   font-family: Mukta-Medium;
+  text-decoration: none;
+}
+
+#proof {
+  text-decoration: none;
+  font-family: NotonSansJP-Thin;
+  color: black;
 }
 /*# sourceMappingURL=index.css.map */
